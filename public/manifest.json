@@ -1,0 +1,13 @@
+{
+  "name": "Cimiento",
+  "short_name": "Cimiento",
+  "description": "Control de ventas y gastos",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1D9E75",
+  "icons": [
+    { "src": "/logo-cimiento.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/logo-cimiento.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
